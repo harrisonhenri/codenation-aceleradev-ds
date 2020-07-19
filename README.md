@@ -8,7 +8,7 @@
 
 ## Programa
 
-O [AceleraDev](https://www.codenation.dev/) é um programa de capacitação gratuito para profissionais de tecnologia. Durante 10 semanas, desenvolvedores de todo o Brasil participam de uma aceleração com o objetivo de imergir em determinado tema. Com o apoio de tutores da área, os participantes trabalham em projetos alinhados com o mercado e recebem mentorias exclusivas. O método de ensino é composto 
+O [AceleraDev](https://www.codenation.dev/) é um programa de capacitação gratuito para profissionais de tecnologia desenvolvido pela Codenation. Durante 10 semanas, desenvolvedores de todo o Brasil participam de uma aceleração com o objetivo de imergir em determinado tema. Com o apoio de tutores da área, os participantes trabalham em projetos alinhados com o mercado e recebem mentorias exclusivas. O método de ensino é composto 
 
 ## Tecnologias
 

@@ -6,13 +6,11 @@
     Codenation: AceleraDev [Data Science]
 </h1>
 
-## Programa
+## The program
 
-O [AceleraDev](https://www.codenation.dev/) é um programa de capacitação gratuito para profissionais de tecnologia. Durante 10 semanas, desenvolvedores de todo o Brasil participam de uma aceleração com o objetivo de imergir em determinado tema. Com o apoio de tutores da área, os participantes trabalham em projetos alinhados com o mercado e recebem mentorias exclusivas. O método de ensino é composto 
+The [AceleraDev](https://www.codenation.dev/) is a training program for technology professionals. For 10 weeks, developers from all over Brazil participate in an acceleration with the objective of immersing themselves in a certain theme. With the support of tutors in the field, participants develop projects in projects with the market and obtain exclusive mentoring.
 
-## Tecnologias
-
-Os desafios desse programa foram desenvolvidos utilizando as seguintes tecnologias:
+## Built With
 
 - [Python](https://www.python.org/)
 - [Anaconda](https://www.anaconda.com/)
@@ -20,12 +18,12 @@ Os desafios desse programa foram desenvolvidos utilizando as seguintes tecnologi
 - [Pandas](https://pandas.pydata.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 
-## Porquê?
+## Why
 
-Este projeto faz parte do meu portfólio pessoal, portanto, ficarei feliz se você puder me fornecer algum feedback sobre o projeto, código, estrutura ou qualquer coisa que você possa relatar que possa me tornar um desenvolvedor melhor!
+his project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
-Email: harrisonhenrisn@gmail.com
+Email-me: harrisonhenrisn@gmail.com
 
-Conecte-se comigo [LinkedIn](https://linkedin.com/in/harrison-henri-dos-santos-nascimento-a6ba33112).
+Connect with me at [LinkedIn](https://linkedin.com/in/harrison-henri-dos-santos-nascimento-a6ba33112).
 
-Além disso, você pode usar este projeto como desejar, estudar, fazer melhorias ou ganhar dinheiro com ele!
+Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
